@@ -1,0 +1,17 @@
+virao@M-C02F2LSMMD6M Test % ls -al
+total 168
+drwxr-xr-x  15 virao  192360288    480 Jul  6 15:46 .
+drwxr-xr-x   4 virao  192360288    128 Jul  6 15:43 ..
+drwxr-xr-x  13 virao  192360288    416 Jul  6 15:48 .git
+drwxr-xr-x   3 virao  192360288     96 Jul  6 15:46 .github
+-rw-r--r--   1 virao  192360288     75 Jul  6 15:43 .gitignore
+-rw-r--r--   1 virao  192360288   1456 Jul  6 15:43 README.md
+drwxr-xr-x   4 virao  192360288    128 Jul  6 15:43 Screenshots
+-rw-r--r--   1 virao  192360288     29 Jul  6 15:43 _config.yml
+-rw-r--r--   1 virao  192360288   3562 Jul  6 15:43 build.xml
+-rw-r--r--   1 virao  192360288  11356 Jul  6 15:43 license.txt
+-rw-r--r--   1 virao  192360288  46097 Jul  6 15:43 logo.png
+-rw-r--r--   1 virao  192360288     82 Jul  6 15:43 manifest.mf
+drwxr-xr-x   6 virao  192360288    192 Jul  6 15:43 nbproject
+drwxr-xr-x   5 virao  192360288    160 Jul  6 15:43 src
+-rw-r--r--   1 virao  192360288     87 Jul  6 15:44 test.md
